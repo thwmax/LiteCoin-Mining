@@ -1,0 +1,33 @@
+<resources>
+
+    <string name="app_name">LTCMiner</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Ajustes</string>
+    <string name="title_activity_main">Litecoin Miner</string>
+    <string name="main_tv_server">Servidor</string>
+    <string name="main_tv_username">Usuario:</string>
+    <string name="main_tv_password">Contraseña</string>
+    <string name="main_button_start">Comenzar</string>
+    <string name="main_button_stop">Detener</string>
+    <string name="main_tv_thread">"Threads: "</string>
+    <string name="main_button_settings">Ajustes</string>
+    <string name="main_tv_speed_lbl">Velocidad: </string>
+    <string name="tab_settings_title">Ajustes</string>
+    <string name="settings_threads_lbl">Threads: </string>
+    <string name="settings_scantime_lbl">Tiempo de Escaneo (ms): </string>
+    <string name="settings_retrypause_lbl">Pausa (ms): </string>
+    <string name="settings_service_lbl">Correr en 2do plano</string>
+    <string name="settings_donate_lbl"></string>
+    <string name="settings_button_save">Guardar</string>
+    <string name="settings_button_default">Restaurar valores por defecto</string>
+    <string name="settings_textView_password_lbl">Contraseña: </string>
+    <string name="settings_textView_user_lbl">Usuario: </string>
+    <string name="settings_server_lbl">URL Servidor</string>
+    <string name="settings_textView_throttle_lbl">Throttle (0-100%)</string>
+    <string name="settings_button_load">Cargar</string>
+    <string name="status_button_start">Comenzar</string>
+    <string name="status_textview_speed">Velocidad: </string>
+    <string name="settings_textview_threadpriority">Prioridad de los Thread :</string>
+    <string name="version">Versión: 0.4.1</string>
+
+</resources>
